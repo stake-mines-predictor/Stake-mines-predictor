@@ -38,7 +38,7 @@ Suivez ces étapes pour démarrer avec Mines Predictor :
 - Lancez l'application et suivez les instructions à l'écran pour configurer vos pronostics.
 
 - Prenez des décisions de jeu éclairées sur la base des prédictions fournies par Mines Predictor .
-- 
+  
 ## Disclaimer
 
 Utilisez Mines Predictor de manière responsable. Le jeu doit être pratiqué uniquement à des fins de divertissement et nous n’encourageons pas le jeu excessif ou irresponsable.
